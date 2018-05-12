@@ -1,4 +1,8 @@
 _repo: The-Mentor-Joan-of-Arc-v-3-Num-22-Serial-No-98-January-1-1916_50859
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50859-h/images/cover.jpg
 creator:
   author:
     agent_name: Tarbell, Ida M. (Ida Minerva)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4022
     wikipedia: http://en.wikipedia.org/wiki/Ida_M._Tarbell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50859#The-Mentor-Joan-of-Arc-v-3-Num-22-Serial-No-98-January-1-1916
 gutenberg_issued: '2016-01-06'
 gutenberg_type: Text
 identifiers:
