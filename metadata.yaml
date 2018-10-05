@@ -23,5 +23,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Mentor: Joan of Arc, v. 3, Num. 22, Serial No. 98, January 1, 1916'
 url: http://www.gutenberg.org/ebooks/50859
